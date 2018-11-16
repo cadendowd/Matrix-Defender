@@ -19,12 +19,15 @@ Sometimes buttons do not work. To fix, simply close and re-open the application
 OUTSIDE SOURCES:
 
 Backgrounds:
+
 http://lefuro.com/mainpage/detail/circuit-background-image
 
 Sounds:
+
 https://freesound.org/browse/tags/sound-effects/
 
 https://www.zapsplat.com/sound-effect-categories/
 
-Game Music
+Game Music:
+
 https://www.youtube.com/watch?v=xCfc6nB_qw8
